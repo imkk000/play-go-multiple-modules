@@ -1,0 +1,4 @@
+github.com/imkk000/play-go-multiple-modules/addition v0.0.0-20250419132615-03bbdde48578 h1:pMYkDvCCS/jes30UQmnpO3KNjRxU1q7h52etT7lv/Bo=
+github.com/imkk000/play-go-multiple-modules/addition v0.0.0-20250419132615-03bbdde48578/go.mod h1:rJM0WIeb8fRrJYXjYnag5+yLL5d0egYBkYwWfwHwVJ0=
+github.com/imkk000/play-go-multiple-modules/multiplication v0.0.0-20250419132615-03bbdde48578 h1:5U6cvo9C40ePVtqAbE/B/16UiohHOx0E8i7wSzvEzek=
+github.com/imkk000/play-go-multiple-modules/multiplication v0.0.0-20250419132615-03bbdde48578/go.mod h1:n61vj681fzzvABzBENCPrQRHxq6i/1JbtnLA6hMjCFA=
