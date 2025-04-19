@@ -5,5 +5,5 @@ type Number interface {
 }
 
 func Add[T Number](a, b T) T {
-	return a + b
+	return a + b + 10
 }
